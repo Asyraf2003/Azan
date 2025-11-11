@@ -1,0 +1,23 @@
+# build/cache
+.DS_Store
+node_modules/
+dist/
+tmp/
+*.log
+
+# big assets not needed for GitHub Pages
+Videos/
+Zips/
+Tools/
+bin/
+*.mp4
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# OS/editor junk
+*.swp
+*.swo
+Thumbs.db
